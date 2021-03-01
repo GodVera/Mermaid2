@@ -62,17 +62,13 @@ hr {
 }
 
 .sea-div {
+  background-image: url("../images/seabig.jpg");
   height: 30%;
   margin-top: 150px;
 }
 
-.sea {
-  height: 200px;
-
-}
-
 .merm-pic {
-  margin-top: 40px;
+  margin-top: 100px;
 }
 
 .story {
