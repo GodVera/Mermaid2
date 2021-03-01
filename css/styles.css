@@ -62,11 +62,13 @@ hr {
 }
 
 .sea-div {
-  height: 50%;
+  height: 30%;
+  margin-top: 150px;
 }
 
 .sea {
-  height: 100%;
+  height: 200px;
+
 }
 
 .merm-pic {
